@@ -1,2 +1,2 @@
-# jakjax1902
-Config files for my GitHub profile.
+# My Files from "C Programming: Language Foundations" an edX course
+
